@@ -1,0 +1,14 @@
+﻿{
+    "name": "esff",
+    "description": "gdrg",
+    "logo":"sdff",
+    "keywords": ["thjh"],
+    "env": {
+        "UUID": {
+            "description": "Xray UUID,随机生成uuid的网站-> (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/xsadd8023/xxyydezh",
+    "stack": "container"
+}
